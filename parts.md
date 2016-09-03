@@ -8,4 +8,4 @@
 8. [Wire](https://www.amazon.com/Ancor-102810-Electrical-16-Gauge-100-Feet/dp/B000NV0G0U/ref=sr_1_1?s=lamps-light&ie=UTF8&qid=1472936452&sr=1-1&refinements=p_n_feature_keywords_browse-bin%3A5908401011)  
 9. [Motor x4](https://www.adafruit.com/product/711)  
 10. [Battery Holder](https://www.amazon.com/2AA-Battery-Holder-Switch-Generic/dp/B003YD8NPO)  
-AA Batteries
+11. AA Batteries
