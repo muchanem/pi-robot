@@ -1,0 +1,11 @@
+*[Battery Pack](https://www.amazon.com/AmazonBasics-Portable-Power-Bank-000/dp/B00LRK8JDC/ref=sr_1_13?s=wireless&ie=UTF8&qid=1472932581&sr=1-13&refinements=p_36%3A2491156011)
+*[Breadboard x2](https://www.adafruit.com/products/64?gclid=Cj0KEQjw6am-BRCTk4WZhLfd4-oBEiQA3ydA3tBIVbb2jKjTM4pU605vuNAB-uFgCTmtW3dnSqpYXzkaAo2o8P8HAQ)
+*[Rasberry Pi 2B](http://www.mcmelectronics.com/product/83-16530?utm_campaign=e14&utm_source=e14community&utm_medium=forum&utm_term=83-16530&COM=superwidget-link_RaspberryPi+CMPNULL)
+*[Micro SD card](https://www.amazon.com/Samsung-Class-Adapter-MB-MP32DA-AM/dp/B00IVPU786/ref=sr_1_3?s=pc&ie=UTF8&qid=1472936036&sr=1-3&refinements=p_36%3A1253503011)
+*[Motor Driver Chip x2](https://www.adafruit.com/product/807)
+*[Jumper Cables](https://www.adafruit.com/products/826)
+*[Jumper Cables](https://www.adafruit.com/product/758)
+*[Wire](https://www.amazon.com/Ancor-102810-Electrical-16-Gauge-100-Feet/dp/B000NV0G0U/ref=sr_1_1?s=lamps-light&ie=UTF8&qid=1472936452&sr=1-1&refinements=p_n_feature_keywords_browse-bin%3A5908401011)
+*[Motor x4](https://www.adafruit.com/product/711)
+*[Battery Holder](https://www.amazon.com/2AA-Battery-Holder-Switch-Generic/dp/B003YD8NPO)
+*AA Batteries
